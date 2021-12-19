@@ -4,7 +4,7 @@
 
 Submitted by: **Yaseen Khan**
 
-Time spent: **6** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -26,14 +26,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![appDemo](https://user-images.githubusercontent.com/78000116/146672909-d56532a5-4315-47d7-b7f1-e41fafe1b371.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-* I initially struggled to build the project since my build files corrupted. After restarting Android Studio, I was able to build the application successfully.
-* I also struggled when trying to push my project to github. I kept getting a 401 error when logging in but I resolved this issue by generating a token and using that token to push my project to github.  
+Describe any challenges encountered while building the app. 
 
 ## License
 
