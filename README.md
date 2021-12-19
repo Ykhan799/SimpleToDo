@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-* I initially struggled to build the project since my build project corrupted. After restarting Android Studio, I was able to build the application successfully.
+* I initially struggled to build the project since my build files corrupted. After restarting Android Studio, I was able to build the application successfully.
 * I also struggled when trying to push my project to github. I kept getting a 401 error when logging in but I resolved this issue by generating a token and using that token to push my project to github.  
 
 ## License
